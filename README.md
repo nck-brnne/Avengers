@@ -1,4 +1,4 @@
-# Faveorite Movie
+# Favorite Movie
 
 ## About the Authors
 <img src='https://avatars.githubusercontent.com/u/132073115?v=4' style=" width: 150px; border-radius: 50%;">
